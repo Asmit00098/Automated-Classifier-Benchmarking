@@ -1,13 +1,4 @@
-"""
-Classification Showdown Dashboard
-----------------------------------
-An interactive Streamlit dashboard that implements a machine learning classification 
-pipeline. It lets users upload datasets, tune hyperparameters for Logistic Regression, 
-SVM, and Random Forest, and visualize model diagnostics in real time.
 
-Author: Antigravity (ML Engineer Agent)
-Date: 2026-06-04
-"""
 
 import streamlit as st
 import numpy as np

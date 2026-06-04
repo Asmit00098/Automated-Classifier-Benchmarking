@@ -1,23 +1,4 @@
-"""
-Classification Algorithm Showdown
-----------------------------------
-A modular, clean, and well-documented Python project that implements a machine 
-learning classification workflow using Scikit-Learn. It compares three models:
-1. Logistic Regression (with L2 Regularization)
-2. Support Vector Machine (RBF Kernel)
-3. Random Forest Classifier
 
-The script demonstrates:
-- Synthetic missing value and categorical feature injection for demonstration.
-- ColumnTransformer preprocessing pipelines (imputation, scaling, one-hot encoding).
-- Prevention of data leakage via Pipeline orchestration.
-- Stratified 5-Fold Cross-Validation.
-- Learning curves for bias/variance diagnostics.
-- Test-set metrics (Precision, Recall, F1, Confusion Matrix, and ROC/AUC curves).
-
-Author: Antigravity (ML Engineer Agent)
-Date: 2026-06-04
-"""
 
 import os
 import numpy as np
