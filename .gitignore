@@ -1,0 +1,25 @@
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files and reports
+*.log
+run.log
+pip_install.log
+
+# Local OS files
+.DS_Store
+Thumbs.db
+
+# Output image plots
+*.png

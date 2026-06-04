@@ -1,0 +1,13 @@
+# Core Data Science & Machine Learning Libraries
+numpy>=2.4.0
+pandas>=3.0.0
+scikit-learn>=1.9.0
+scipy>=1.17.0
+
+# Visualizations
+matplotlib>=3.10.0
+seaborn>=0.13.0
+
+# Interactive Dashboard & Tabular outputs
+streamlit>=1.58.0
+tabulate>=0.10.0
